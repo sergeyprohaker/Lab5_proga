@@ -10,30 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5fc4ae6-5234-4974-9b8d-4b0b072906a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/MovieGenre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/MpaaRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalClasses/CommandManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalClasses/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalClasses/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalClasses/FilePathInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalClasses/SetValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalClasses/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moviesClasses/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moviesClasses/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moviesClasses/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moviesClasses/Movies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/moviesClasses/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tes1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Lab5_proga_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/functionalClasses/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalClasses/CommandManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +42,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Sergey/IdeaProjects/Lab5_proga",
-    "project.structure.last.edited": "Artifacts",
+    "last_opened_file_path": "C:/Users/Sergey/IdeaProjects/Lab5_proga_newest",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.20344828"
   }
@@ -72,6 +52,19 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sergey\IdeaProjects\Lab5_proga" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677645727475</updated>
       <workItem from="1677645728865" duration="3730000" />
+      <workItem from="1678353354411" duration="1209000" />
     </task>
     <servers />
   </component>

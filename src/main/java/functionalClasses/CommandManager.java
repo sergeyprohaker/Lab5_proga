@@ -164,7 +164,7 @@ public class CommandManager {
                 default -> System.out.println("Введите команду из доступного перечня");
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("Oops");
         }
 
     }
